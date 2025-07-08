@@ -16,8 +16,9 @@ class ProfilePage extends StatelessWidget {
               backgroundImage: NetworkImage("https://i.imgur.com/QCNbOAo.png"), // Replace with actual image
             ),
             SizedBox(height: 10),
-            Text("John Doe", style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
-            Text("john@example.com"),
+            Text("Anuj shah deo", style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
+            Text("Anujshahdeo_cs23@gla.ac.in"
+                ""),
             Divider(height: 40),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
